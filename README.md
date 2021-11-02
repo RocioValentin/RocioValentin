@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Rocio</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="230">
 
 <p><em>A bootcamp student at <a href="https://hogent.be">Laboratoria</a>, Fullstack Developer. 😊</br>
 </em></p>
