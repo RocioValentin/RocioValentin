@@ -2,7 +2,7 @@
 
 <img align='right' src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="230">
 
-<p><em>A bootcamp student at <a href="https://hogent.be">Laboratoria</a>, Fullstack Developer. 😊</br>
+<p><em>A bootcamp student at <a href="https://www.laboratoria.la/">Laboratoria</a>, Fullstack Developer. 😊</br>
 </em></p>
 
 
@@ -24,9 +24,7 @@ const aboutMe = {
 };
 ```
 </br></br>
-<h2>💻 Some stats 💻</h2>
 
-![Rocio's github stats](https://github-readme-stats.vercel.app/api?RocioValentin=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 
