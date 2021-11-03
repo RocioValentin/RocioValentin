@@ -15,7 +15,7 @@ const aboutMe = {
          css: ["ReactBoostrap", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", API Rest, GraphQL],
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
    },
