@@ -19,7 +19,6 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
    },
-   currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
