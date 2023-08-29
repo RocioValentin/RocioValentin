@@ -2,7 +2,7 @@
 
 <img align='right' src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="230">
 
-<p><em>A bootcamp student at <a href="https://www.laboratoria.la/">Laboratoria</a>, Fullstack Developer. 😊</br>
+<p><em>Currently, I work as a software developer and I'm also diving into quantum computing. 😊</br>
 </em></p>
 
 
