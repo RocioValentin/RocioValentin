@@ -5,7 +5,7 @@
 <p><em>Currently, I work as a software developer and I'm also diving into quantum computing. 😊</br>
 </em></p>
 
-
+<!--
 ```javascript
 const aboutMe = {
    code: [Javascript, HTML, CSS],
